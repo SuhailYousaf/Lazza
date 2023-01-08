@@ -81,12 +81,11 @@ display: flex;
     }
     
     #blo2{
-        margin-top: -24px;
-    margin-left: 550px;
+    margin-left:231px;
        }
     #blo3{
-        margin-left: 1000px;
-        margin-top: -25px;
+        margin-left:151px;
+        
        }
        .block3{
         display: flex;
